@@ -1,5 +1,6 @@
 # LeetCode
-LeetCode solutions in java<table>
+LeetCode solutions in java
+<table>
  <thead>
   <th>NO</th>
   <th>title</th>
