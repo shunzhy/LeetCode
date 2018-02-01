@@ -1,6 +1,6 @@
 # LeetCode
 LeetCode solutions in java
-<table style="width: 100%;overflow: auto">
+<table>
  <thead>
   <th>NO</th>
   <th>title</th>
@@ -10,7 +10,7 @@ LeetCode solutions in java
  <tbody>
   <tr>
    <td>1</td>
-   <td>Two Sum</td>
+   <td><a href="https://leetcode.com/problems/two-sum/description/">Two Sum</a></td>
    <td>Easy</td>
    <td>solving</td>
   </tr>
