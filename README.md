@@ -16,7 +16,7 @@ LeetCode solutions in java
   </tr>
   <tr>
    <td>2</td>
-   <td><a href="https://leetcode.com/problems/two-sum/description/">Add Two Numbers</a></td>
+   <td><a href="https://leetcode.com/problems/add-two-numbers/">Add Two Numbers</a></td>
    <td>Medium</td>
    <td>solving</td>
   </tr>
