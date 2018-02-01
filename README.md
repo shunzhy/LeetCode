@@ -1,5 +1,8 @@
 # LeetCode
 LeetCode solutions in java
 <table>
-  <th>行</th>
+  <th>NO</th>
+  <th>title</th>
+  <th>difficult</th>
+  <th>solve time</th>
 </table>
