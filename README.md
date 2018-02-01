@@ -12,6 +12,12 @@ LeetCode solutions in java
    <td>1</td>
    <td><a href="https://leetcode.com/problems/two-sum/description/">Two Sum</a></td>
    <td>Easy</td>
+   <td>2018-02-01</td>
+  </tr>
+  <tr>
+   <td>2</td>
+   <td><a href="https://leetcode.com/problems/two-sum/description/">Add Two Numbers</a></td>
+   <td>Easy</td>
    <td>solving</td>
   </tr>
  </tbody>
