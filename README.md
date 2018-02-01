@@ -1,6 +1,6 @@
 # LeetCode
 LeetCode solutions in java
-<table style="width: 100%;overflow: auto">
+<table>
  <thead>
   <th>NO</th>
   <th>title</th>
