@@ -23,6 +23,62 @@ LeetCode solutions in java
    <td>2018-02-02</td>
    <td>LinkNode</td>
   </tr>
+  <tr>
+   <td>3</td>
+   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Longest Substring Without Repeating Characters</a></td>
+   <td>Medium</td>
+   <td>2018-02-02</td>
+   <td>StringBuilder</td>
+  </tr>
+  <tr>
+   <td>4</td>
+   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Median of Two Sorted Arrays</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>5</td>
+   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Longest Palindromic Substring</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>6</td>
+   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">ZigZag Conversion</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>7</td>
+   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Reverse Integer</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>8</td>
+   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">String to Integer (atoi)</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>9</td>
+   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Palindrome Number</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>10</td>
+   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Regular Expression Matching</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
  </tbody>
   
 </table>
