@@ -1,10 +1,12 @@
 public class LongestPalindrome {
 
     public static String longestPalindrome(String s) {
-
+        // 结果字符串的长度
         int resultLength = 0;
+        // 结果字符串开始位置
         int resultStart = 0;
         for (int i = 0; i <= s.length() - 1; i++) {
+            // 中心字符 为两个
             int start = i;
             int end = i + 1;
             int length = 0;
@@ -17,6 +19,7 @@ public class LongestPalindrome {
                 resultLength = length;
                 resultStart = start;
             }
+            // 中心字符 为1个
             start = i - 1;
             end = i + 1;
             length = 1;
