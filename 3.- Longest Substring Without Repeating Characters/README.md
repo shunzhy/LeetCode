@@ -6,8 +6,11 @@ tip:
   
 String知识点：
   1、s.length() 
+  
   2、s.charAt(i),获取i位置的代码单元 
   
 StringBuilder知识点： 
+
   1、sb.indexOf(str),>=0，代表存在，<0代表不存在 
+  
   2、sb.delete(0, sb.indexOf(str) + 1);，删除，start>=0，当start=end时不变，必须满足end>=start
