@@ -33,6 +33,7 @@ public class LongestPalindrome {
                 resultStart = start;
             }
         }
+        // 需加1，因为此时的开始位置，不包含第一个字符
         resultStart++;
         return s.substring(resultStart, resultStart + resultLength);
     }
