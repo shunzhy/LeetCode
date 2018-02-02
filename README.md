@@ -35,7 +35,7 @@ LeetCode solutions in java
    <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/description/">Median of Two Sorted Arrays</a></td>
    <td>Hard</td>
    <td>2018-02-02</td>
-   <td>逻辑判断，处理好空数组与数据越界的问题，正确找到中值所在的数组</td>
+   <td>逻辑判断，正确找到中值所在的数组，避免空与越界问题</td>
   </tr>
   <tr>
    <td>5</td>
