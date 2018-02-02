@@ -32,10 +32,10 @@ LeetCode solutions in java
   </tr>
   <tr>
    <td>4</td>
-   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Median of Two Sorted Arrays</a></td>
+   <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/description/">Median of Two Sorted Arrays</a></td>
    <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td>2018-02-02</td>
+   <td>逻辑判断</td>
   </tr>
   <tr>
    <td>5</td>
