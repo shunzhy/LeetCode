@@ -1,5 +1,7 @@
 # LeetCode
 LeetCode solutions in java
+|NO.|Title|Solution|Note|Difficulty|Tag|
+|---|-----|--------|----|----------|---|
 <table>
  <thead>
   <th>NO</th>
