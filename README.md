@@ -49,7 +49,7 @@ LeetCode solutions in java
    <td><a href="https://leetcode.com/problems/zigzag-conversion/description/">ZigZag Conversion</a></td>
    <td>Medium</td>
    <td>2018-02-05</td>
-   <td>数学公式推导</td>
+   <td>理解题意，数学公式推导</td>
   </tr>
   <tr>
    <td>7</td>
