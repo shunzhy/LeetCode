@@ -41,15 +41,15 @@ LeetCode solutions in java
    <td>5</td>
    <td><a href="https://leetcode.com/problems/longest-palindromic-substring/description/">Longest Palindromic Substring</a></td>
    <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td>2018-02-02</td>
+   <td>求以每个字符为中心的对称，循环s.length()次</td>
   </tr>
   <tr>
    <td>6</td>
-   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">ZigZag Conversion</a></td>
+   <td><a href="https://leetcode.com/problems/zigzag-conversion/description/">ZigZag Conversion</a></td>
    <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td>2018-02-05</td>
+   <td>数学公式推导</td>
   </tr>
   <tr>
    <td>7</td>
