@@ -53,10 +53,10 @@ LeetCode solutions in java
   </tr>
   <tr>
    <td>7</td>
-   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Reverse Integer</a></td>
-   <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td><a href="https://leetcode.com/problems/reverse-integer/description/">Reverse Integer</a></td>
+   <td>Easy</td>
+   <td>2018-02-05</td>
+   <td>负数与溢出的处理</td>
   </tr>
   <tr>
    <td>8</td>
