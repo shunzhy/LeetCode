@@ -60,10 +60,10 @@ LeetCode solutions in java
   </tr>
   <tr>
    <td>8</td>
-   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">String to Integer (atoi)</a></td>
+   <td><a href="https://leetcode.com/problems/string-to-integer-atoi/description/">String to Integer (atoi)</a></td>
    <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td>2018-02-06</td>
+   <td>atoi，异常处理</td>
   </tr>
   <tr>
    <td>9</td>
