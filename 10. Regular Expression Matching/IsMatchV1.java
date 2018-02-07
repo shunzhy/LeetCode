@@ -1,4 +1,4 @@
-public class IsMatch() {
+public class IsMatch {
       /**
        第一版，思路是将s遍历，如果前后字符==psCode相同，则字符数psCount+1，若字符不同，则与p进行比较
        同理遍历p，得到pbCode和PbCount
