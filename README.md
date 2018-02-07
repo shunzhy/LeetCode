@@ -109,7 +109,7 @@ LeetCode solutions in java
   </tr>
   <tr>
    <td>15</td>
-   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">3Sum</a></td>
+   <td><a href="https://leetcode.com/problems/3sum/description/">3Sum</a></td>
    <td>Medium</td>
    <td>Salving</td>
    <td></td>
