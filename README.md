@@ -67,14 +67,84 @@ LeetCode solutions in java
   </tr>
   <tr>
    <td>9</td>
-   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Palindrome Number</a></td>
+   <td><a href="https://leetcode.com/problems/palindrome-number/description/">Palindrome Number</a></td>
+   <td>Easy</td>
+   <td>2018-02-06</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>10</td>
+   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">Regular Expression Matching</a></td>
+   <td>Hard</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>11</td>
+   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">Container With Most Water</a></td>
    <td>Medium</td>
    <td>Salving</td>
    <td></td>
   </tr>
   <tr>
-   <td>10</td>
-   <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Regular Expression Matching</a></td>
+   <td>12</td>
+   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">Integer to Roman</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>13</td>
+   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">Roman to Integer</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>14</td>
+   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">Longest Common Prefix</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>15</td>
+   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">3Sum</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>16</td>
+   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">3Sum Closest</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>17</td>
+   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">Letter Combinations of a Phone Number</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>18</td>
+   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">4Sum</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>19</td>
+   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">Remove Nth Node From End of List</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>20</td>
+   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">Valid Parentheses</a></td>
    <td>Medium</td>
    <td>Salving</td>
    <td></td>
