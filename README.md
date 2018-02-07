@@ -96,16 +96,16 @@ LeetCode solutions in java
   <tr>
    <td>13</td>
    <td><a href="https://leetcode.com/problems/roman-to-integer/description/">Roman to Integer</a></td>
-   <td>Medium</td>
+   <td>Easy</td>
    <td>20180207</td>
    <td>roman numeral</td>
   </tr>
   <tr>
    <td>14</td>
-   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">Longest Common Prefix</a></td>
-   <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td><a href="https://leetcode.com/problems/longest-common-prefix/description/">Longest Common Prefix</a></td>
+   <td>Easy</td>
+   <td>20180207</td>
+   <td>最长公共前缀</td>
   </tr>
   <tr>
    <td>15</td>
