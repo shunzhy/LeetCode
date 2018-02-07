@@ -13,7 +13,7 @@ LeetCode solutions in java
    <td>1</td>
    <td><a href="https://leetcode.com/problems/two-sum/description/">Two Sum</a></td>
    <td>Easy</td>
-   <td>2018-02-01</td>
+   <td>20180201</td>
    <td>带标签的break</td>
   </tr>
   <tr>
