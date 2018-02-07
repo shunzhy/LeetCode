@@ -90,8 +90,8 @@ LeetCode solutions in java
    <td>12</td>
    <td><a href="https://leetcode.com/problems/integer-to-roman/description/">Integer to Roman</a></td>
    <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td>20180207</td>
+   <td>roman numeral</td>
   </tr>
   <tr>
    <td>13</td>
