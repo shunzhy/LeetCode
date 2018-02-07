@@ -20,14 +20,14 @@ LeetCode solutions in java
    <td>2</td>
    <td><a href="https://leetcode.com/problems/add-two-numbers/">Add Two Numbers</a></td>
    <td>Medium</td>
-   <td>2018-02-02</td>
+   <td>20180202</td>
    <td>LinkNode</td>
   </tr>
   <tr>
    <td>3</td>
    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Longest Substring Without Repeating Characters</a></td>
    <td>Medium</td>
-   <td>2018-02-02</td>
+   <td>20180202</td>
    <td>StringBuilder</td>
   </tr>
   <tr>
@@ -41,35 +41,35 @@ LeetCode solutions in java
    <td>5</td>
    <td><a href="https://leetcode.com/problems/longest-palindromic-substring/description/">Longest Palindromic Substring</a></td>
    <td>Medium</td>
-   <td>2018-02-02</td>
+   <td>20180202</td>
    <td>求以每个字符为中心的对称，循环s.length()次</td>
   </tr>
   <tr>
    <td>6</td>
    <td><a href="https://leetcode.com/problems/zigzag-conversion/description/">ZigZag Conversion</a></td>
    <td>Medium</td>
-   <td>2018-02-05</td>
+   <td>20180205</td>
    <td>理解题意，数学公式推导</td>
   </tr>
   <tr>
    <td>7</td>
    <td><a href="https://leetcode.com/problems/reverse-integer/description/">Reverse Integer</a></td>
    <td>Easy</td>
-   <td>2018-02-05</td>
+   <td>20180205</td>
    <td>负数与溢出的处理</td>
   </tr>
   <tr>
    <td>8</td>
    <td><a href="https://leetcode.com/problems/string-to-integer-atoi/description/">String to Integer (atoi)</a></td>
    <td>Medium</td>
-   <td>2018-02-06</td>
+   <td>20180206</td>
    <td>atoi，异常处理</td>
   </tr>
   <tr>
    <td>9</td>
    <td><a href="https://leetcode.com/problems/palindrome-number/description/">Palindrome Number</a></td>
    <td>Easy</td>
-   <td>2018-02-06</td>
+   <td>20180206</td>
    <td></td>
   </tr>
   <tr>
