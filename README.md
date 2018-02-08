@@ -1,5 +1,5 @@
 # LeetCode
-LeetCode solutions in java，Tn:超时版本，En错误版本、记录思路的改变，Vn：正确版本
+LeetCode solutions in java，Tn：超时版本，En：错误版本、记录思路的改变，Vn：正确版本
 <table>
  <thead>
   <th>NO</th>
