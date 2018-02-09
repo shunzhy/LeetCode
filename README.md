@@ -123,10 +123,10 @@ LeetCode solutions in java，Tn：超时版本，En：错误版本、记录思�
   </tr>
   <tr>
    <td>17</td>
-   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">Letter Combinations of a Phone Number</a></td>
+   <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/">Letter Combinations of a Phone Number</a></td>
    <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td>20180209</td>
+   <td>分治算法</td>
   </tr>
   <tr>
    <td>18</td>
