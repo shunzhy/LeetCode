@@ -111,8 +111,8 @@ LeetCode solutions in java，Tn：超时版本，En：错误版本、记录思�
    <td>15</td>
    <td><a href="https://leetcode.com/problems/3sum/description/">3Sum</a></td>
    <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td>20180209</td>
+   <td>转化为2Sum，并降低2Sum的时间复杂度</td>
   </tr>
   <tr>
    <td>16</td>
