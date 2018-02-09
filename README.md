@@ -116,10 +116,10 @@ LeetCode solutions in java，Tn：超时版本，En：错误版本、记录思�
   </tr>
   <tr>
    <td>16</td>
-   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">3Sum Closest</a></td>
+   <td><a href="https://leetcode.com/problems/3sum-closest/description/">3Sum Closest</a></td>
    <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td>20180209</td>
+   <td>基本同3Sum，注意转化2Sum后，首尾循环时移动点的判断不同</td>
   </tr>
   <tr>
    <td>17</td>
