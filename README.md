@@ -144,10 +144,10 @@ LeetCode solutions in java，Tn：超时版本，En：错误版本、记录思�
   </tr>
   <tr>
    <td>20</td>
-   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">Valid Parentheses</a></td>
-   <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Valid Parentheses</a></td>
+   <td>Easy</td>
+   <td>20180210</td>
+   <td>栈</td>
   </tr>
  </tbody>
   
