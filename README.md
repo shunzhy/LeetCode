@@ -149,6 +149,76 @@ LeetCode solutions in java，Tn：超时版本，En：错误版本、记录思�
    <td>20180210</td>
    <td>栈</td>
   </tr>
+  <tr>
+   <td>21</td>
+   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Merge Two Sorted Lists</a></td>
+   <td>Easy</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>22</td>
+   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Generate Parentheses</a></td>
+   <td>Medium</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>23</td>
+   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Merge k Sorted Lists</a></td>
+   <td>Easy</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>24</td>
+   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Swap Nodes in Pairs</a></td>
+   <td>Easy</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>25</td>
+   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Reverse Nodes in k-Group</a></td>
+   <td>Easy</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>26</td>
+   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Remove Duplicates from Sorted Array</a></td>
+   <td>Easy</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>27</td>
+   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Remove Element</a></td>
+   <td>Easy</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>28</td>
+   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Implement strStr()</a></td>
+   <td>Easy</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>29</td>
+   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Divide Two Integers</a></td>
+   <td>Easy</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>30</td>
+   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Substring with Concatenation of All Words</a></td>
+   <td>Easy</td>
+   <td>Salving</td>
+   <td></td>
+  </tr>
  </tbody>
   
 </table>
