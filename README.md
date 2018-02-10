@@ -151,10 +151,10 @@ LeetCode solutions in java，Tn：超时版本，En：错误版本、记录思�
   </tr>
   <tr>
    <td>21</td>
-   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Merge Two Sorted Lists</a></td>
+   <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/description/">Merge Two Sorted Lists</a></td>
    <td>Easy</td>
-   <td>Salving</td>
-   <td></td>
+   <td>20180210</td>
+   <td>链表</td>
   </tr>
   <tr>
    <td>22</td>
