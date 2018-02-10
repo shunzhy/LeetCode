@@ -130,17 +130,17 @@ LeetCode solutions in java，Tn：超时版本，En：错误版本、记录思�
   </tr>
   <tr>
    <td>18</td>
-   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">4Sum</a></td>
+   <td><a href="https://leetcode.com/problems/4sum/description/">4Sum</a></td>
    <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td>20180209</td>
+   <td>转化为1sum + 3sum</td>
   </tr>
   <tr>
    <td>19</td>
-   <td><a href="https://leetcode.com/problems/regular-expression-matching/description/">Remove Nth Node From End of List</a></td>
+   <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/">Remove Nth Node From End of List</a></td>
    <td>Medium</td>
-   <td>Salving</td>
-   <td></td>
+   <td>20180210</td>
+   <td>链表操作</td>
   </tr>
   <tr>
    <td>20</td>
