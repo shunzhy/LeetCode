@@ -193,10 +193,10 @@ LeetCode solutions in java，Tn：超时版本，En：错误版本、记录思�
   </tr>
   <tr>
    <td>27</td>
-   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Remove Element</a></td>
+   <td><a href="https://leetcode.com/problems/remove-element/description/">Remove Element</a></td>
    <td>Easy</td>
-   <td>Salving</td>
-   <td></td>
+   <td>20180326</td>
+   <td>只需要关注不等于val</td>
   </tr>
   <tr>
    <td>28</td>
