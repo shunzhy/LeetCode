@@ -189,7 +189,7 @@ LeetCode solutions in java，Tn：超时版本，En：错误版本、记录思�
    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/">Remove Duplicates from Sorted Array</a></td>
    <td>Easy</td>
    <td>20180326</td>
-   <td>map/set，注意原数组的修改</td>
+   <td>map/set/数组，注意原数组的修改</td>
   </tr>
   <tr>
    <td>27</td>
