@@ -43,4 +43,25 @@ public class RemoveDuplicates {
         }
         return set.size();
     }
+    
+    /**
+     * 直接在原数组上操作，速度最快
+     * @param 
+     * @Author zhengyingshun
+     * @Date 2018/3/26 17:18
+     */
+    public int removeDuplicates2(int[] nums) {
+
+        int index = 0;
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[index] != nums[i]) {
+                index++;
+                if (i != index) {
+                    nums[index] = nums[i];
+                }
+
+            }
+        }
+        return index + 1;
+    }
 }
