@@ -200,10 +200,10 @@ LeetCode solutions in java，Tn：超时版本，En：错误版本、记录思�
   </tr>
   <tr>
    <td>28</td>
-   <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Implement strStr()</a></td>
+   <td><a href="https://leetcode.com/problems/implement-strstr/description/">Implement strStr()</a></td>
    <td>Easy</td>
-   <td>Salving</td>
-   <td></td>
+   <td>20180327</td>
+   <td>优化</td>
   </tr>
   <tr>
    <td>29</td>
