@@ -1,4 +1,4 @@
-NO|Title|Difficult Points|Solve Time|Tip
+NO|Title|Difficulty|Solve Time|Tip
 -------- | --- | --- | --- | ---
 1|<a href="https://leetcode.com/problems/two-sum/description/">Two Sum</a>|Easy|20180201|带标签的break
 2|<a href="https://leetcode.com/problems/add-two-numbers/">Add Two Numbers</a>|Easy|20180202|LinkNode
