@@ -28,5 +28,7 @@ NO|Title|Difficulty|Solve Time|Tip
 26|<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/">Remove Duplicates from Sorted Array</a>|Easy|20180326|map/set，注意原数组的修改
 27|<a href="https://leetcode.com/problems/valid-parentheses/description/">Remove Element</a>|Easy|20180326|只需要关注不等于val
 28|<a href="https://leetcode.com/problems/implement-strstr/description/">Implement strStr()</a>|Easy|20180327|优化
-29|<a href="https://leetcode.com/problems/two-sum/description/">Divide Two Integers</a>|Easy|Salving|
-30|<a href="https://leetcode.com/problems/two-sum/description/">Substring with Concatenation of All Words</a>|Easy|Salving|
+29|<a href="https://leetcode.com/problems/divide-two-integers/description/">Divide Two Integers</a>|Medium|20180327|
+30|<a href="https://leetcode.com/problems/two-sum/description/">Substring with Concatenation of All Words</a>|Hard|Salving|
+31|<a href="https://leetcode.com/problems/next-permutation/description/">Next Permutation</a>|Medium|20180327|
+33|<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/">Search in Rotated Sorted Array</a>|Medium|20180727|二分法变形，循环递归
