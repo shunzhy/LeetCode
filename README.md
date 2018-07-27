@@ -32,3 +32,4 @@ NO|Title|Difficulty|Solve Time|Tip
 30|<a href="https://leetcode.com/problems/two-sum/description/">Substring with Concatenation of All Words</a>|Hard|Salving|
 31|<a href="https://leetcode.com/problems/next-permutation/description/">Next Permutation</a>|Medium|20180327|
 33|<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/">Search in Rotated Sorted Array</a>|Medium|20180727|二分法变形，循环递归
+34|<a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/">Find First and Last Position of Element in Sorted Array</a>|Medium|20180727|二分法变形，循环递归
