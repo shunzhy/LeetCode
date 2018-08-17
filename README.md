@@ -35,3 +35,10 @@ NO|Title|Difficulty|Solve Time|Tip
 34|<a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/">Find First and Last Position of Element in Sorted Array</a>|Medium|20180727|二分法变形，循环递归
 35|<a href="https://leetcode.com/problems/search-insert-position/description/">Search Insert Position</a>|Easy|20180730|二分搜索
 36|<a href="https://leetcode.com/problems/valid-sudoku/description/">Search Insert Position</a>|Medium|20180731|暴力循环，希望能有更好的解法
+37|<a href="https://leetcode.com/problems/count-and-say/description/">Search Insert Position</a>|Medium|20180731|暴力循环，希望能有更好的解法
+38|<a href="https://leetcode.com/problems/count-and-say/description/">Count and Say</a>|Medium|20180817|同斐波那契数列
+
+
+
+
+
